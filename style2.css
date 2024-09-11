@@ -1,0 +1,27 @@
+nav a{
+    color: black;
+}
+head {
+    display: flex;
+    padding: 10px 20px;
+}
+div {
+    background: rgb(86, 55, 15);
+    padding: 10px;
+    align-self: center;
+}
+.row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+.column {
+    background-color: bisque;
+    padding: 1rem 0;
+    flex: 1;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
